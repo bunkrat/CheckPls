@@ -25,7 +25,7 @@ with Lazy:
 
 ```lua
 return {
-  'bunkrat',
+  'bunkrat/checkpls',
 
   opts = {}
 }
@@ -45,7 +45,7 @@ To change the keybinds,
 
 ```lua
 return {
-  'bunkrat',
+  'bunkrat/checkpls',
 
   opts = {
       mappings = { -- optionally remap keybinds
